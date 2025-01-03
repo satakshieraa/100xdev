@@ -1,2 +1,2 @@
-# git-demo
-This is my first git repository
+# 100xdev
+Notes from cohort 2.0
